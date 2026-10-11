@@ -16,7 +16,7 @@ A skill is a folder with a SKILL.md that teaches an agent a workflow. The ecosys
 **The one rule:** volume is not trust. A verified skill from a known team beats a hundred you have not read.
 
 <!-- LIST:START -->
-**44 entries**, auto-refreshed weekly. Star counts updated **2026-09-28**. Browse the filterable version at **[agent-skills.agentpostmortem.com](https://agent-skills.agentpostmortem.com)**.
+**46 entries**, auto-refreshed weekly. Star counts updated **2026-09-28**. Browse the filterable version at **[agent-skills.agentpostmortem.com](https://agent-skills.agentpostmortem.com)**.
 
 ### Official and spec
 
@@ -44,6 +44,7 @@ A skill is a folder with a SKILL.md that teaches an agent a workflow. The ecosys
 - [distro-skills](https://github.com/royalpinto007/distro-skills) `* 0`: 26 Agent Skills that teach an agent to distribute a dev or indie product across GitHub, HN, Reddit, dev.to, and more.
 - [alapha888/agent-skills-en](https://github.com/alapha888/agent-skills-en): Five MIT-licensed productivity skills for AI coding agents: meeting notes, code review checklist, deep research framework, tech writing proofread, and git commit messages.
 - [LogNorm](https://github.com/lognorm/lognorm-mcp/tree/main/skills/lognorm): Work a site's SEO and AI-visibility (GEO) backlog through the hosted LogNorm MCP server: audits, fixes, content, AI-answer tracking. Needs a LogNorm account (free plan available).
+- [Darkmoon pentest skill](https://github.com/ASCIT31/darkmoon-mcp-server/tree/main/plugins/darkmoon/skills/darkmoon-pentest): Skill and MCP plugin to start authorized autonomous AI pentest runs on your own self-hosted Darkmoon Pro, poll them and triage findings. Needs a Darkmoon Pro dashboard; the open source (GPL-3.0) engine alone is not enough.
 
 ### Coding and review
 
